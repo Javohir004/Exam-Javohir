@@ -10,5 +10,8 @@
 2.chi savolga javob:
     LinkedHashMap malumotlarni saqlashda HashMapdan foydalanadi.
 
-
-
+3.chi savolga javob:
+    Ho'sh oldin javani 1.5 chi versiyasigacha gereneric bo'lmagan lekin biz Collectionlardan foydalana olganmiz
+    biroq harsafa to'plamdan biror bir elementni olayotganda uni cast qilishimizga to'g'ri kelgan va bunda ko'p vaqt
+    ketgan keyin Generic qo'shilganda keyin bu muammo bartaraf etilgan.Generic bizga clean code yozishda va ishlash
+    tezligida katta ustunlik beradi.
