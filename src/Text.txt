@@ -1,0 +1,11 @@
+1.chi savolga javob:
+    Linkedlist malumotlarni saqlashda nodelardan foydalanadi va malymotlarni o'chirish yoki qo'shish
+    ammallari ArrayListdan ko'ra tezroq bajariladi . Shuningdek Linkedlist ning default holatda
+    size 0 bo'ladi.
+
+    Arraylist malumotlarni saqlashda arraydan foydalanadi va malumotlarni olish va izatish amallari
+    Linkedlistdan ko'ra tezroq bajariladi . Shuningdek Arraylistning default holatda size 10 ga teng
+    bo'ladi.
+
+
+
