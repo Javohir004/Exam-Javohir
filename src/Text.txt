@@ -15,3 +15,13 @@
     biroq harsafa to'plamdan biror bir elementni olayotganda uni cast qilishimizga to'g'ri kelgan va bunda ko'p vaqt
     ketgan keyin Generic qo'shilganda keyin bu muammo bartaraf etilgan.Generic bizga clean code yozishda va ishlash
     tezligida katta ustunlik beradi.
+
+4.chi savolga javob:
+    Collection heirarcy bu collectionlar iyarxiyasi yani java dasturchilar tomonida yaratilgan bir qator foydali classlar
+    va interfeyslardan yig'indisidir. Uning eng tepasida Iterable turadi u javadagi muhim 3 ta cursorlardan bir bo'lib
+    bizga to'plamalrni for-each loopda aylanish imkonini beradi.
+
+                            -- List  \
+    Iterible --> Collection -- Queue  - bular interface bo'lib barchasi collectiondan extend olgan va ularni yana boshqa
+                            -- Set   /
+                            child classlar va interfeyslari bor.
