@@ -25,3 +25,4 @@
     Iterible --> Collection -- Queue  - bular interface bo'lib barchasi collectiondan extend olgan va ularni yana boshqa
                             -- Set   /
                             child classlar va interfeyslari bor.
+
