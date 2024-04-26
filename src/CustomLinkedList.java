@@ -1,5 +1,6 @@
+import java.util.Objects;
 
-    public class CustomLinkedList<E>{
+public class CustomLinkedList<E>{
         private Node head;
         private Node last;
         private int size;
